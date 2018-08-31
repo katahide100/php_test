@@ -1,0 +1,22 @@
+{
+  "name": "no1s_test",
+  "version": "1.0.0",
+  "description": "全社テスト",
+  "main": "index.js",
+  "scripts": {
+    "201808_1": "node src/js/process.js",
+    "201808_1_test": "mocha src/test/process.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iconv": "^2.3.0",
+    "jschardet": "^1.6.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "intelli-espower-loader": "^1.0.1",
+    "mocha": "^5.2.0",
+    "power-assert": "^1.6.0"
+  }
+}
