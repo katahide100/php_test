@@ -16,7 +16,7 @@
   </style>
 </head>
 <body>
-<div class="field" border="5px solid red" width="300px" height="300px">
+<div class="field">
 </div>
 <div id="image" style="POSITION:absolute;Z-INDEX:1;VISIBILITY:visible;TOP:228px;LEFT:300px;">
 <img src="images/mario_1.png">
